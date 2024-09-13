@@ -39,7 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
       <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
       <a href="https://sqlmap.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLmap-FF4500?&style=for-the-badge&logo=SQLmap&logoColor=white" /></a> 
-      <a href="https://github.com/beefproject/beef" target="_blank"><img src="https://img.shields.io/badge/-BeEF-DCDCDC?&style=for-the-badge&logo=BeEF&logoColor=black" /></a> 
       <a href="https://www.aircrack-ng.org/" target="_blank"><img src="https://img.shields.io/badge/-Aircrack--ng-1A1A1A?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" /></a>
       <a href="https://github.com/t6x/reaver-wps-fork-t6x" target="_blank"><img src="https://img.shields.io/badge/-Reaver-4B0082?&style=for-the-badge&logo=Reaver&logoColor=white" /></a> </div>
 
@@ -56,7 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
       <a href="https://ghidra-sre.org/" target="_blank"><img src="https://img.shields.io/badge/-Ghidra-FFA500?&style=for-the-badge&logo=Ghidra&logoColor=white" /></a> 
       <a href="https://rada.re/n/radare2.html" target="_blank"><img src="https://img.shields.io/badge/-Radare2-008080?&style=for-the-badge&logo=Radare2&logoColor=white" /></a> 
       <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a> 
-      <a href="https://www.parrotsec.org/" target="_blank"><img src="https://img.shields.io/badge/-Parrot%20Security%20OS-00C49F?&style=for-the-badge&logo=Parrot-Security&logoColor=white" /></a>
 </div>
 
 ## Certifications
