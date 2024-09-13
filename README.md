@@ -61,5 +61,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-
+      <a href="https://academy.tcm-sec.com/p/python-101-for-hackers" target="_blank"><img src="https://img.shields.io/badge/-Python%20101%20for%20Hackers%20by%20TCM-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a> 
+      <a href="https://cs50.harvard.edu/x/" target="_blank"><img src="https://img.shields.io/badge/-CS50x%20by%20Harvard%20University-A51C30?&style=for-the-badge&logo=Harvard&logoColor=white" /></a>
+      <a href="https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course" target="_blank"><img src="https://img.shields.io/badge/-Practical%20Ethical%20Hacker%20by%20TCM-FFA500?&style=for-the-badge&logo=Ethical-Hacking&logoColor=white" /></a>
+      <a href="https://cs50.harvard.edu/web/" target="_blank"><img src="https://img.shields.io/badge/-CS50%20Web%20Development%20by%20Harvard%20University-007ACC?&style=for-the-badge&logo=HTML5&logoColor=white" /></a> 
 </div>
